@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Ritik Kumar</h1>
 
-<!--
-**RitikYadav0101/RitikYadav0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aspiring Software Engineer • DSA Enthusiast • MERN Stack Learner
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Focused on building strong problem-solving skills and real-world development experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Learning C++, Data Structures & Algorithms, and MERN Stack Development
+- Building projects to strengthen software engineering fundamentals
+- Interested in scalable applications and clean development practices
+- Consistently improving problem-solving and development skills
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+- Data Structures & Algorithms
+- Full Stack Web Development
+- Backend Development
+- Real-world Projects
+
+---
+
+## Philosophy
+
+```cpp
+while(!success){
+    learn();
+    build();
+    improve();
+}
